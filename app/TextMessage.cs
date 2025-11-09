@@ -1,8 +1,4 @@
-public class TextMessage : MessageBase 
+public class TextMessage : MessageBase
 {
-    public TextMessage(string message)
-        :base(message)
-    {
-
-    }
+    public TextMessage(string message) : base(message) { }
 }

@@ -1,6 +1,5 @@
 public abstract class MessageBase
 {
-
     protected MessageBase(string message)
     {
         Message = message;
